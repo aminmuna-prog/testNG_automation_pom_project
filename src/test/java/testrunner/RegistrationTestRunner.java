@@ -96,7 +96,7 @@ public class RegistrationTestRunner extends Setup{
 //        String phonenum = "01505"+Utils.generateRandomNumber(100000, 999999);
         String address = faker.address().fullAddress();
         UserModel userModel = new UserModel();
-        userModel.setFirstname(firstname);
+        userModel.setFirstname(firstname);git
         userModel.setLastname(lastname);
         userModel.setEmail(email);
         userModel.setPassword(password);
