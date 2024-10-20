@@ -1,6 +1,6 @@
 ## DailyDinance Website Automation using Selenium TESTNG
 ### Project Summary: 
-##### Here I have automated user login and registration functionality with both positive and negative test cases. I have also automate update profile photo functionality.  I took data from  csv file and fill up product form as well as assert total cost. I automated search functionality and check price.
+#### Here I have automated user login and registration functionality with both positive and negative test cases. I have also automate update profile photo functionality.  I took data from  csv file and fill up product form as well as assert total cost. I automated search functionality and check price.
 
 ### what I have done:
 #### I have performed regression and smoke test with two different suites
