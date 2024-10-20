@@ -8,7 +8,7 @@
 ![summary_report](https://github.com/user-attachments/assets/235d52c0-2755-45d9-b450-f409ed7be3b4)
 ### Regression Test allure report:
 ![TestNG_allurereport](https://github.com/user-attachments/assets/7c563d10-df50-4716-b4bd-fba236b7374b)
-### Video of the regression suite execution
+### Video of the regression suite execution: 
 [Watch here](https://drive.google.com/file/d/1DoS50tmdHoyvrr8DbzOROjgdoXyb-MvV/view?usp=sharing)
 ### Tools I have used
 - selenium Java
